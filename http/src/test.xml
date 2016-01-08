@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User><name>姓名1</name><age>18</age><gender>男</gender></User>
+    <User><name>姓名2</name><age>19</age><gender>女</gender></User>
+    <User><name>石头</name><age>20</age><gender>女</gender></User>
+</Users>
